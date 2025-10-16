@@ -11,7 +11,7 @@
     "C_Cpp.default.cStandard": "c11",
 
     "[cpp]": {
-        "editor.defaultFormatter": "ms-vscode.cpptools",
+        "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
         "editor.formatOnSave": true
     },
 
